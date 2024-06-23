@@ -1,0 +1,17 @@
+{
+  "signUpButton": "button[class = 'sc-imWYAI dLIPIJ']",
+  "fullNameField": "#fullname",
+  "businessNameField": "#businessname",
+  "businessEmail" : "#businessemail",
+  "phoneNumberField": "#businessphonenumber",
+  "nextButton": "button[type='button']",
+  "websiteField" : " input[id= 'website']",
+  "instragramField" : "#instagramHandle",
+  "twitterField" : "#twitterHandle",
+  "heardAboutUs" : "[class='sc-cPiKLX iafYdr']",
+  "instagramOption" : "div[class='sc-cwHptR klNCXk'] div:nth-child(5)",
+  "passwordField" : "input[id = 'password']",
+  "signUpBtn" : "button[type='submit']"
+
+
+}
